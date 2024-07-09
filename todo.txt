@@ -1,0 +1,10 @@
+Random Network Generator
+    Make random interaction networks within bio parameters
+    Produce network diagram autonomously
+    Autonomously produce SBML model
+
+Simulator
+    Simulate SBML with Catalyst
+    Classify oscillations/steady state/chaotic
+
+Write README
